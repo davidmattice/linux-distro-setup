@@ -24,3 +24,11 @@ Add Python 3 and pip3
 ```
 apt-get install python3-pip
 ```
+
+
+# Ubuntu Server 18.04.1 LTS
+
+Add pip3
+```
+apt-get install python3-pip
+```
