@@ -32,3 +32,11 @@ Add pip3
 ```
 apt-get install python3-pip
 ```
+
+
+# Raspberry Pi Strech
+
+Add pip
+```
+apt-get install python-pip
+```
