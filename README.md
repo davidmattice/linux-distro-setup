@@ -40,3 +40,8 @@ Add pip
 ```
 apt-get install python-pip
 ```
+
+Add git
+```
+apt-get install git
+```
